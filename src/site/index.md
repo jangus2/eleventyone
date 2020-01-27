@@ -5,7 +5,7 @@ layout: layouts/base.njk
 ---
 
 
-## This site is a starting point
+## Research Focus
 
 From this point we should already have:
 
