@@ -1,10 +1,10 @@
 ---
-title: JasonAng.us
+title: About
 layout: layouts/base.njk
 subtitle: About
 ---
 
-##Jason Angus
+## Jason Angus
 
 Doctoral student at Liberty University in the Community Care and Counseling program.
 
