@@ -7,7 +7,6 @@ layout: layouts/base.njk
 
 ## Research Focus
 
-
 - Personality
 - Religious Coping
 
