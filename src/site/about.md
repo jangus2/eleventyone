@@ -1,7 +1,7 @@
 ---
 title: About
 layout: layouts/base.njk
-subtitle: About
+subtitle: 
 ---
 
 ## Jason Angus
