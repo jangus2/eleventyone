@@ -9,6 +9,7 @@ layout: layouts/base.njk
 
 - Personality
 - Religious Coping
+- Forgiveness
 
 
 
