@@ -7,7 +7,6 @@ layout: layouts/base.njk
 
 ## Research Focus
 
-From this point we should already have:
 
 - Personality
 - Religious Coping
