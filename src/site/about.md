@@ -1,10 +1,11 @@
 ---
 title: JasonAng.us
 layout: layouts/base.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
+subtitle: About
 ---
 
 Jason Angus
+
 Doctoral student at Liberty University in the Community Care and Counseling program.
 
 
