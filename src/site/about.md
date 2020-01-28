@@ -4,7 +4,7 @@ layout: layouts/base.njk
 subtitle: About
 ---
 
-Jason Angus
+##Jason Angus
 
 Doctoral student at Liberty University in the Community Care and Counseling program.
 
@@ -12,7 +12,7 @@ Doctoral student at Liberty University in the Community Care and Counseling prog
 
 
 
-## Hosting
+### Hosting
 
 This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
 
