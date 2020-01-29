@@ -11,7 +11,7 @@ Doctoral student at Liberty University in the Community Care and Counseling prog
 
 ## Contact
 
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact" method="POST" data-netlify="true" data-netlify-recaptcha="true">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
@@ -21,6 +21,7 @@ Doctoral student at Liberty University in the Community Care and Counseling prog
   <p>
     <label>Message: <textarea name="message"></textarea></label>
   </p>
+  <div data-netlify-recaptcha="true"></div>
   <p>
     <button type="submit">Send</button>
   </p>
