@@ -18,7 +18,6 @@ layout: layouts/base.njk
 
 ## Post pages
 
-The pages found in in the posts
 
 <ul class="listing">
 {%- for page in collections.post -%}
