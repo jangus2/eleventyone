@@ -3,4 +3,6 @@ title: Research Tools
 date: 2020-01-29
 ---
 
-There are various research tools for managing your research available.  A few I have found helpful are listed here. 
+Guides, tools, and worksheets [Dissertation Recipes](http://www.dissertationrecipes.com/guides-tools-worksheets-slideshows/).
+
+Correlational Research [Pressbooks] (https://opentext.wsu.edu/carriecuttler/chapter/correlational-research/)
