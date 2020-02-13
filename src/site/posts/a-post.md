@@ -1,5 +1,5 @@
 ---
-title: Research Tools
+title: Resources
 date: 2020-01-29
 ---
 
